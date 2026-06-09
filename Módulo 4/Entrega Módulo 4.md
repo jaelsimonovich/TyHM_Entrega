@@ -11,6 +11,7 @@
 * R (versión 4.0 o superior)
 * RStudio (recomendado)
 * Paquetes de R:
+  
     ```r
     install.packages(c("distill", "rmarkdown", "ggplot2", "dplyr", "knitr"))
     ```
@@ -23,4 +24,7 @@
     ```r
     rmarkdown::render(`articulo Sistema de Sauld y Emergencias.Rmd`)
     ```
+## Informe publicado
+
+https://rpubs.com/JaelGisel/1440469
   
