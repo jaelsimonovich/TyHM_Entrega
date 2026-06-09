@@ -26,5 +26,6 @@
     ```
 ## Informe publicado
 
-https://rpubs.com/JaelGisel/1440469
+https://rpubs.com/JaelGisel/1440480
+
   
