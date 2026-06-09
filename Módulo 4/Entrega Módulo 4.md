@@ -15,11 +15,11 @@
     install.packages(c("distill", "rmarkdown", "ggplot2", "dplyr", "knitr"))
     ```
 
-  ## Para renderizar
+## Para renderizar
 
-  *Abre el archivo .Rmd en RStudio
+* Abre el archivo .Rmd en RStudio
 
-  * Haz clic en el botón "Knit" o ejecuta:
+* Haz clic en el botón "Knit" o ejecuta:
     ```r
     rmarkdown::render(`articulo Sistema de Sauld y Emergencias.Rmd`)
     ```
